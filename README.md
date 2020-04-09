@@ -1,3 +1,3 @@
-# MS-Bibliography
-Reference
-Table of Contents
+# Bibliography
+
+## Table of Contents
