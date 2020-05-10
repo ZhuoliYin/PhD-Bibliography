@@ -17,3 +17,6 @@
 3. **`(Course)`** [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/), CS285 at UC Berkeley
 
 4. **`(Github)`** [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+---
+### Deep Learning :book:
+1. **`(Book)`** [Deep Learning](http://www.deeplearningbook.org), Ian Goodfellow and Yoshua Bengio and Aaron Courville, 2016
