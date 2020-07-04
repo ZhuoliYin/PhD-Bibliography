@@ -2,11 +2,13 @@
 
 ## Table of Contents
 
-### Dynamic Programming :hammer:
+### Dynamic Programming :flashlight:
 1. **`(Book)`** [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Dimitri Bertsekas. (2020).  
 
 2. **`(Course)`** [Dynamic Programming and Stochastic Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/), Prof. Dimitri Bertsekas. (Fall 2015)
-
+---
+### Machine Learning :slot_machine:
+1. **`(Github)`**[100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code), Siraj Raval
 ---
 ### Reinforcement Learning :globe_with_meridians:
 #### Open Resources:
@@ -20,3 +22,13 @@
 ---
 ### Deep Learning :book:
 1. **`(Book)`** [Deep Learning](http://www.deeplearningbook.org), Ian Goodfellow and Yoshua Bengio and Aaron Courville, 2016
+
+2. **`(Book)`** [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), François Chollet, 2017 
+   
+   **`(Practice Code)`**[Companion Jupyter notebooks for the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+3. **`(Course)`** [Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html), Hung-yi Lee, NTU
+---
+### Tools :hammer:
+1. **`(Github)`** [How to eat TensorFlow2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
+2. **`(Excel)`** [Open-Source RL: Frameworks, Environments, Raw data](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/htmlview#)
