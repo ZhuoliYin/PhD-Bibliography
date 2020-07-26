@@ -28,6 +28,7 @@
    **`(Practice Code)`**[Companion Jupyter notebooks for the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 3. **`(Course)`** [Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html), Hung-yi Lee, NTU
+  
    **`(Tutorial)`** [Deep Learning Tutorial: one day's tour](https://www.slideshare.net/tw_dsconf/ss-62245351?from_action=save), Hung-yi Lee, NTU
    
 4. **`(Course)`** [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Fei-Fei Li, Stanford
