@@ -9,6 +9,7 @@
 ---
 ### Machine Learning :slot_machine:
 1. **`(Github)`**[100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code), Siraj Raval
+2. **`(Book)`** [Machine Learning (Chinese)](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm), Zhihua Zhou. (2016).  
 ---
 ### Reinforcement Learning :globe_with_meridians:
 #### Open Resources:
