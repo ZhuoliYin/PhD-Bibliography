@@ -9,7 +9,10 @@
 ---
 ### Machine Learning :slot_machine:
 1. **`(Github)`**[100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code), Siraj Raval
+
 2. **`(Book)`** [Machine Learning (Chinese)](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm), Zhihua Zhou. (2016).  
+
+3. **`(Course)`** [Machine Learning](https://davidrosenberg.github.io/ml2019/#home), Julia Kempe, NYU
 ---
 ### Reinforcement Learning :globe_with_meridians:
 #### Open Resources:
@@ -20,6 +23,7 @@
 3. **`(Course)`** [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/), CS285 at UC Berkeley
 
 4. **`(Github)`** [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+
 5. **`(Course)`** [Reinforcement Learning](https://cuhkrlcourse.github.io/), Bolei Zhou, IERG 5350 at CUHKm
 ---
 ### Deep Learning :book:
@@ -34,6 +38,9 @@
    **`(Tutorial)`** [Deep Learning Tutorial: one day's tour](https://www.slideshare.net/tw_dsconf/ss-62245351?from_action=save), Hung-yi Lee, NTU
    
 4. **`(Course)`** [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Fei-Fei Li, Stanford
+---
+### Combinatorial Optimization :flashlight:
+1. **`(Course)`** [Discrete Optimization](https://zh.coursera.org/learn/discrete-optimization#syllabus), Prof.Pascal Van Hentenryck, Coursera
 ---
 ### Tools :hammer:
 1. **`(Github)`** [How to eat TensorFlow2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
