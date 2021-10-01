@@ -25,6 +25,8 @@
 4. **`(Github)`** [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 5. **`(Course)`** [Reinforcement Learning](https://cuhkrlcourse.github.io/), Bolei Zhou, IERG 5350 at CUHKm
+
+6. **`(Course)`** [Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021), DeepMind x UCL
 ---
 ### Deep Learning :book:
 1. **`(Book)`** [Deep Learning](http://www.deeplearningbook.org), Ian Goodfellow and Yoshua Bengio and Aaron Courville, 2016
