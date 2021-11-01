@@ -40,6 +40,8 @@
    **`(Tutorial)`** [Deep Learning Tutorial: one day's tour](https://www.slideshare.net/tw_dsconf/ss-62245351?from_action=save), Hung-yi Lee, NTU
    
 4. **`(Course)`** [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Fei-Fei Li, Stanford
+5. **`(Course)`** [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/), Chris Manning, Stanford
+
 ---
 ### Combinatorial Optimization :flashlight:
 1. **`(Course)`** [Discrete Optimization](https://zh.coursera.org/learn/discrete-optimization#syllabus), Prof.Pascal Van Hentenryck, Coursera
