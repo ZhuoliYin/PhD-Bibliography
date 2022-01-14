@@ -13,6 +13,8 @@
 2. **`(Book)`** [Machine Learning (Chinese)](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm), Zhihua Zhou. (2016).  
 
 3. **`(Course)`** [Machine Learning](https://davidrosenberg.github.io/ml2019/#home), Julia Kempe, NYU
+
+4. **`(Book)`** [Mining of Massive Datasets](http://www.mmds.org/), Jure Leskovec, Anand Rajaraman, Jeff Ullman, Stanford
 ---
 ### Reinforcement Learning :globe_with_meridians:
 #### Open Resources:
