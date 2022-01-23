@@ -47,6 +47,11 @@
 ---
 ### Combinatorial Optimization :flashlight:
 1. **`(Course)`** [Discrete Optimization](https://zh.coursera.org/learn/discrete-optimization#syllabus), Prof.Pascal Van Hentenryck, Coursera
+
+---
+### Sustainability :earth_americas:
+1. **`(Document)`** [LIFE CYCLE ASSESSMENT:PRINCIPLES AND PRACTICE](https://nepis.epa.gov/Exe/ZyNET.exe/P1000L86.TXT?ZyActionD=ZyDocument&Client=EPA&Index=2006+Thru+2010&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C06thru10%5CTxt%5C00000002%5CP1000L86.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL),US EPA 
+
 ---
 ### Tools :hammer:
 1. **`(Github)`** [How to eat TensorFlow2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
